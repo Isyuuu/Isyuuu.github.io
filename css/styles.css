@@ -7749,7 +7749,7 @@ textarea.form-control-lg {
     }
 .p-7 {
       margin: 50px 0px 0px 1000px!important;
-      font-size:20px;
+      font-size:15px;
       display: inline-block;
   text-align: right ;
 }
@@ -10887,7 +10887,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background-image: url("![](../img/圖片1.png)");
+  background-image: url("img/圖片1.png");
   background-repeat: no-repeat;
 
   background-color: #eadbc7;
